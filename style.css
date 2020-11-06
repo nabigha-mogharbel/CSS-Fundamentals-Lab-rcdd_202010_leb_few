@@ -4,5 +4,6 @@ body {
   margin: 0;
 }
 nav{
-  margin: auto;
+  align-items: center;
 }
+image{margin: auto;}
