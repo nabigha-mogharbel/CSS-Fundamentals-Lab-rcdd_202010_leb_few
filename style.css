@@ -9,4 +9,9 @@ nav{
 image{margin: auto;}
 figcaption{align-items: center; width: 800px;
 }
-
+div{float: left;
+  display: block;
+  background: red;
+  text-align: center;
+  width; 25%;
+}
