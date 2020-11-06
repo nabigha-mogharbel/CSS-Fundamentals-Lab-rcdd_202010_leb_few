@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+nav{
+  align-items: center;
+}
+image{margin: auto;}
+figcaption{align-items: center; width: 800px;
+}
+div{float: left;
+  display: block;
+  background: red;
+  text-align: center;
+  width: 25%;
+}
